@@ -15,17 +15,17 @@ Dari aplikasi ini, diharapkan masyarakat lebih sadar akan kesehatannya masing-ma
 Aplikasi Covid 19 Information adalah aplikasi Android yang menyediakan informasi terupdate seputar data persebaran Covid 19, gejala dan pencegahan, serta fasilitas kesehatan yang tersedia untuk vaksinasi. Berikut adalah tampilan dari aplikasinya.
 
 1. [welcome_screen.dart](./covid_app/lib/screens/welcome/welcome_screen.dart) <br>
-    ![screenshot_1](./screenshot/screenshot_1.jpg)
+    ![screenshot_1](./screenshot/screenshot-1.jpg)
 2. [register_screen.dart](./covid_app/lib/screens/register/register_screen.dart) <br>
-    ![screenshot_2](./screenshot/screenshot_2.jpg)
+    ![screenshot_2](./screenshot/screenshot-2.jpg)
 3. [login_screen.dart](./covid_app/lib/screens/login/login_screen.dart) <br>
-    ![screenshot_3](./screenshot/screenshot_3.jpg)
+    ![screenshot_3](./screenshot/screenshot-3.jpg)
 4. [home_screen.dart](./covid_app/lib/screens/home_screen.dart) <br>
 5. [info_screen.dart](./covid_app/lib/screens/info/info_screen.dart) <br>
-    ![screenshot_4](./screenshot/screenshot_4.jpg)
+    ![screenshot_4](./screenshot/screenshot-4.jpg)
 6. [care_screen.dart](./covid_app/lib/screens/care_screen.dart) <br>
-    ![screenshot_5](./screenshot/screenshot_5.jpg)
+    ![screenshot_5](./screenshot/screenshot-5.jpg)
 7. [facility_screen.dart](./covid_app/lib/screens/facility/facility_screen.dart) <br>
-    ![screenshot_6](./screenshot/screenshot_6.jpg)
+    ![screenshot_6](./screenshot/screenshot-6.jpg)
 8. [user_screen.dart](./covid_app/lib/screens/user_screen.dart) <br>
-    ![screenshot_7](./screenshot/screenshot_7.jpg)
+    ![screenshot_7](./screenshot/screenshot-7.jpg)
